@@ -1,4 +1,4 @@
-![alt text](./top.png)
+![alt text](./topp.png)
 
 I love coding in JavaScript :snake:. I work at [CodeX](https://codexjr.com.br/) as a UX/UI designer.
 
