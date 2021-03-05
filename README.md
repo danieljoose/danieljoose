@@ -16,11 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using JavaScript.
-- 🌱 I’m currently learning React and NodeJS.
-- :pencil2: I Write blogs on dev.to on free days.
-- :musical_note: I love to hear country music.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=danieljoose&count_private=true&show_icons=true&theme=dracula" />
@@ -29,6 +24,12 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoose&layout=compact&theme=dracula" />
 </a>
+⚡ Fun fact:
+- 👯 I’m looking to collaborate on projects that are using JavaScript.
+- 🌱 I’m currently learning React and NodeJS.
+- :pencil2: I Write blogs on dev.to on free days.
+- :musical_note: I love to hear country music.
+
 
 ### Let's Connect :coffee:
 <p align="center">
