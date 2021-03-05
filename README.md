@@ -26,12 +26,6 @@ Here are some ideas to get you started:
   <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=danieljoose&count_private=true&show_icons=true&theme=dracula" />
 </a>
 
-#### 💬 Ask me about 
-* NodeJS
-* Spring Boot
-* SQL and NoSQL
-* Back-end stuff
-
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoose&layout=compact&theme=dracula" />
 </a>
