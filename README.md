@@ -17,13 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=danieljoose&count_private=true&show_icons=true&theme=dracula" />
-</a>
-
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoose&layout=compact&theme=dracula" />
-</a>
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using JavaScript.
 - 🌱 I’m currently learning React and NodeJS.
@@ -39,5 +32,15 @@ Here are some ideas to get you started:
 	<a href="https://www.instagram.com/daanieljose/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 	<img src="https://img.icons8.com/bubbles/50/000000/twitter.png" alt="Twitter"/></a>
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=danieljoose&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoose&layout=compact&theme=dracula" />
+</a>
+
 
 ![alt text](./bottom.svg)
