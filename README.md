@@ -1,6 +1,6 @@
 ![alt text](./top.png)
 
-I love coding in Python :snake:. I work at [Estylo](https://estylo.in/) as a Python Developer and occassionally participate in hackathons.
+I love coding in JavaScript :snake:. I work at [CodeX](https://codexjr.com.br/) as a UX/UI designer.
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ⚡ Fun fact:
-- 👯 I’m looking to collaborate on projects that are using Python.
-- 🌱 I’m currently learning JavaScript and mathematics required for ML and Data Science.
+- 👯 I’m looking to collaborate on projects that are using JavaScript.
+- 🌱 I’m currently learning React and NodeJS.
 - :pencil2: I Write blogs on dev.to on free days.
 - :musical_note: I love to hear country music.
 
