@@ -22,6 +22,19 @@ Here are some ideas to get you started:
 - :pencil2: I Write blogs on dev.to on free days.
 - :musical_note: I love to hear country music.
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="right" width="350" src="https://github-readme-stats.vercel.app/api?username=danieljoose&count_private=true&show_icons=true&theme=dracula" />
+</a>
+
+#### 💬 Ask me about 
+* NodeJS
+* Spring Boot
+* SQL and NoSQL
+* Back-end stuff
+
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieljoose&layout=compact&theme=dracula" />
+</a>
 
 ### Let's Connect :coffee:
 <p align="center">
