@@ -1,6 +1,6 @@
 ![alt text](./topp.png)
 
-I love coding in JavaScript :snake:. I work at [CodeX](https://codexjr.com.br/) as a UX/UI designer.
+I love coding in JavaScript :snake:. I work at [CodeX](https://codexjr.com.br/) as a UX/UI designer and full-stack developer at [Arker](https://www.linkedin.com/company/arker-trade-promotion-management/mycompany/).
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact:
 - 👯 I’m looking to collaborate on projects that are using JavaScript.
-- 🌱 I’m currently learning React and NodeJS.
+- 📚 I’m currently learning React and NodeJS.
+- 💻 I’m currently working with C#, JavaScript, ASP.NET and Visual Basic.
 - :musical_note: I love to hear music.
 - :soccer: Passionate about football.
 
