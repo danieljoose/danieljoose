@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on projects that are using JavaScript.
 - 📚 I’m currently learning React and NodeJS.
 - 💻 I’m currently working with C#, JavaScript, ASP.NET and Visual Basic.
-- :musical_note: I love to hear music.
+- :musical_note: I love to hear music..
 - :soccer: Passionate about football.
 
 
