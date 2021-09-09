@@ -1,6 +1,6 @@
 ![alt text](./topp.png)
 
-I love coding in JavaScript :snake:. I work at [CodeX](https://codexjr.com.br/) as a UX/UI designer and full-stack developer at [Arker](https://www.linkedin.com/company/arker-trade-promotion-management/mycompany/).
+I love coding in JavaScript :snake:. I work at full-stack developer at [Hirix](https://hirix.com.br/).
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
