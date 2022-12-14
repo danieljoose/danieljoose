@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ⚡ Fun fact:
 - 📚 I’m currently learning React Native.
-- 💻 I’m currently working with React, Spring Boot, NodeJS, GraphQL, Docker.
+- 💻 I’m currently working with React, Spring Boot, NodeJS, GraphQL.
 - :musical_note: I love to hear music..
 - :soccer: Passionate about football.
 
