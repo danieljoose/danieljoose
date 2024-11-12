@@ -1,6 +1,6 @@
 ![alt text](./topp.png)
 
-I love coding in React :snake:. I work at full-stack developer at [Hirix](https://hirix.com.br/).
+I love coding in React :snake:. I work at full-stack developer at Cargozilla
 
 <!--
 **sisodiya2421/sisodiya2421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
